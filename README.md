@@ -7,4 +7,3 @@ Landing page assignment for The Odin Project
 - CSS 
 - drop of vanilla JavaScript
 
-Ptáku mladej voe! Se mrskej voe! Sráči jeden voe!
