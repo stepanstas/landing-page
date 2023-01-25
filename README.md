@@ -2,7 +2,7 @@
 
 Landing page assignment for The Odin Project
 
-**Technologies used:**
+**Skills used:**
 - HTML
 - CSS 
 - drop of vanilla JavaScript
