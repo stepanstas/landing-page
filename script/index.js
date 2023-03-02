@@ -10,7 +10,8 @@ closeBtn.addEventListener('click', () => {
   navLinks.style.display = 'none';
 });
 
-navLinks.forEach(link =>
-link.addEventListener('click', () => {
-  navLinks.style.display = 'none';
-}));
+navLinks.querySelectorAll('a').forEach(link => {
+  link.addEventListener('click', () => {
+    navLinks.style.display = 'none';
+  });
+});
